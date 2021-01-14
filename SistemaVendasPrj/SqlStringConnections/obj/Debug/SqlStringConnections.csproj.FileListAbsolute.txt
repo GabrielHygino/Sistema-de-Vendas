@@ -1,0 +1,35 @@
+D:\VisualStudio\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.dll
+D:\VisualStudio\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.pdb
+D:\VisualStudio\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.csprojResolveAssemblyReference.cache
+D:\VisualStudio\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.dll
+D:\VisualStudio\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SqlStringConnections\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SqlStringConnections\obj\Debug\SqlStringConnections.pdb

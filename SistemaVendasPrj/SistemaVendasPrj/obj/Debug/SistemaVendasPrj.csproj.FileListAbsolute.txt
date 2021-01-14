@@ -1,0 +1,459 @@
+D:\VisualStudio\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+D:\VisualStudio\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+D:\VisualStudio\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+D:\VisualStudio\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+D:\VisualStudio\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+D:\VisualStudio\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+D:\VisualStudio\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+D:\VisualStudio\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+D:\VisualStudio\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\marco\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\04 - 17\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\04 - 22\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\04 - 23\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\04 - 25\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\04 - 27\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 07\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\05 - 07\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\05 - 09 - P2\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 15\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\05 - 15\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\05 - 19\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\marco\Desktop\05 - 20\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 21\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+F:\[Etec]\Semestre 3\TCC\[New TCC]\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\05 - 21\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioPedidoVenda.resources
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioPedidoVenda.resources
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.cache
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.compiled
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\05 - 30 - 2 - report viewer por data set sem c sharp\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioPedidoVenda.resources
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.cache
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.compiled
+C:\Users\Manutencao\Desktop\06 - 01\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaRelatorios.resources
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioPedidoVenda.resources
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.cache
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.compiled
+C:\Users\Manutencao\Desktop\[TCC - Pré Finalizado] ABRIR ESTE SEGUNDA-FEIRA\05 - 31\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioDePesquisa.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaRelatorios.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioDePesquisa.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioPedidoVenda.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.cache
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.compiled
+C:\Users\Manutencao\Desktop\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmSobre.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaRelatorios.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioDePesquisa.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioPedidoVenda.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmSobre.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.cache
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.compiled
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 2\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaRelatorios.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioDePesquisa.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioPedidoVenda.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmSobre.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.cache
+C:\Users\Manutencao\Desktop\[  - Finalizado -  ] - 5\06 - 04\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.compiled
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaRelatorios.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioDePesquisa.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioPedidoVenda.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmSobre.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.cache
+C:\Users\Manutencao\Desktop\[ - TCC - ] 06 - 11\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.compiled
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe.config
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.exe
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SistemaVendasPrj.pdb
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.dll
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\bin\Debug\SqlStringConnections.pdb
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaRelatorios.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioDePesquisa.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioPedidoVenda.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmSobre.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.cache
+C:\Users\Manutencao\Desktop\[ - TCC - ] 2S - Soluções & Sistemas\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\RdlCompile.compiled
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csprojAssemblyReference.cache
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroClientes.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroProdutos.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmCadastroUsuarios.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmLogin.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmMenuPrincipal.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPedidoVenda.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaClientes.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaProdutos.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmPesquisaRelatorios.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioDePesquisa.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmRelatorioPedidoVenda.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.frmSobre.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.Properties.Resources.resources
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.GenerateResource.cache
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.csproj.CoreCompileInputs.cache
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.exe
+D:\[ - TCC - ] 2S - Soluções & Sistemas - Para Segunda\SistemaVendasPrj\SistemaVendasPrj\obj\Debug\SistemaVendasPrj.pdb
